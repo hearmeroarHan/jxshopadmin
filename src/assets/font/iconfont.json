@@ -1,0 +1,51 @@
+{
+  "id": "2634781",
+  "name": "jxshopadmin",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18627650",
+      "name": "Token",
+      "font_class": "Token",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "21868048",
+      "name": "-_微信",
+      "font_class": "-_weixin",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "6950984",
+      "name": " menu_set",
+      "font_class": "menu_set-",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "11841178",
+      "name": "全屏",
+      "font_class": "quanping",
+      "unicode": "e773",
+      "unicode_decimal": 59251
+    },
+    {
+      "icon_id": "14022231",
+      "name": "setting",
+      "font_class": "xingzhuangjiehebeifen4",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "14200314",
+      "name": "关机",
+      "font_class": "guanji",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    }
+  ]
+}
